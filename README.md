@@ -17,11 +17,11 @@ The complete analysis is posted on
 The result is different from blazenclaw's work. Long story short,
 - A simple tool is developed
 - All 283 possible combos are given with total workload and efficiency
-- The only two options to maintain at most 3 enemies (races, workload, efficiency
-  - Terran - Pirates - Yaki, 162.4439368085864, 0.07387163987622411
-  - Terran - Yaki - Paranid, 195.74987462921922, 0.06130272125450844
-- 4 options to keep good relationship with all 6 major races with least enemies are listed as below
-  - Yaki - Arteus - Pirates - Strong Arms - Duke's, 115.8094676469517, 0.08634872608589542
-  - Yaki - Pirates - Strong Arms - Duke's - OTAS, 55.18972548571192, 0.18119314622409025
-  - Yaki - Arteus - Pirates - Duke's - OTAS, 59.13128817880327, 0.16911520631449206
-  - Yaki - Arteus - TerraCorp - Pirates - Duke's, 280.2498134147293, 0.035682450161711406
+- The only two options to maintain at most 3 enemies (races, workload, efficiency)
+    - Terran - Yaki - Paranid, 195.74987462921916, 0.06130272125450846
+    - Pirates - Terran - Yaki, 162.4439368085863, 0.07387163987622415
+- 4 options to keep good relationship with all 6 major races with least enemies (5) are listed as below:
+    - Arteus - Pirates - Duke's - Strong Arms - Yaki, 115.80946764695183, 0.08634872608589532
+    - OTAS - Pirates - Duke's - Strong Arms - Yaki, 55.18972548571193, 0.18119314622409022
+    - Arteus - TerraCorp - Pirates - Duke's - Yaki, 280.2498134147285, 0.03568245016171151
+    - OTAS - Arteus - Pirates - Duke's - Yaki, 59.131288178803246, 0.16911520631449212

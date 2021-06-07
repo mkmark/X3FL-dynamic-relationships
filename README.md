@@ -21,7 +21,7 @@ The result is different from blazenclaw's work. Long story short,
     - Terran - Yaki - Paranid, 195.74987462921916, 0.06130272125450846
     - Pirates - Terran - Yaki, 162.4439368085863, 0.07387163987622415
 - 4 options to keep good relationship with all 6 major races with least enemies (5) are listed as below:
-    - Arteus - Pirates - Duke's - Strong Arms - Yaki, 115.80946764695183, 0.08634872608589532
+    - Atreus - Pirates - Duke's - Strong Arms - Yaki, 115.80946764695183, 0.08634872608589532
     - OTAS - Pirates - Duke's - Strong Arms - Yaki, 55.18972548571193, 0.18119314622409022
-    - Arteus - TerraCorp - Pirates - Duke's - Yaki, 280.2498134147285, 0.03568245016171151
-    - OTAS - Arteus - Pirates - Duke's - Yaki, 59.131288178803246, 0.16911520631449212
+    - Atreus - TerraCorp - Pirates - Duke's - Yaki, 280.2498134147285, 0.03568245016171151
+    - OTAS - Atreus - Pirates - Duke's - Yaki, 59.131288178803246, 0.16911520631449212

@@ -16,7 +16,7 @@ Moreover, an interactive analysis report is located at
 
 For example, if you are to become friends with everyone but Yaki, Pirates, and Terran, the best strategy is to improve relationship with everyone but not Yaki, Pirates, Terran, **AND TELADI**, which is quite contrary to intuition. 
 
-The logic behind this strategy is that by improving the relationship with Teladi it leads to loss of relationship in general. By improving relationship with Teladi's ally, it would already make notoriety points of more than enough to achieve good relationship with Teladi, which is verified by the tool.
+The logic behind this strategy is that by improving the relationship with Teladi's ally, it would already make notoriety points of more than enough to achieve good relationship with Teladi, which is verified by the tool.
 
 ---
 
@@ -42,11 +42,4 @@ The result is slightly different from [blazenclaw's work](https://github.com/dzf
 
 ---
 
-Credits to blazenclaw, Deianeira. See more in the edit history.
-
-Edit: fix relationship error as pointed out by Deianeira, and update conclusions accordingly
-Edit: fix notoriety overflow not considered and update conclusions accordingly
-Edit: update links and blazenclaw's progress
-Edit: update possible combos count as pointed out by blazenclaw
-Edit: update possible combos count
-Edit: update new features
+Credits to blazenclaw, Deianeira from [forum.egosoft.com](https://forum.egosoft.com/viewtopic.php?f=199&t=439741&p=5061950#p5061950)

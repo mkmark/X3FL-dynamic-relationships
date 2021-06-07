@@ -5,10 +5,13 @@ Originally posted on [forum.egosoft.com](https://forum.egosoft.com/viewtopic.php
 I was really intrigued by the new dynamic relation system but could not find a source telling me what is actually happening behind all the notoriety shift, so when I found [blazenclaw's work](https://forum.egosoft.com/viewtopic.php?f=199&t=438936=) I was very excited.
 
 blazenclaw has done a lot in researching the dynamic relationship, and gave 2 lists of enemy combo to choose from(see his [latest progress here](https://steamcommunity.com/sharedfiles/filedetails/?id=2499635590)). I was not aware of what approach he was using at then this but I wanted to explore the problem myself so I write a tool to address this.
+
 [X3FL-dynamic-relationships-tool.ipynb](https://colab.research.google.com/github/mkmark/X3FL-dynamic-relationships/blob/main/X3FL-dynamic-relationships-tool.ipynb)
+
 which gives you an output of optimized tactic (which races you should be working on actively) together with its workload and efficiency.
 
 The complete analysis is posted on
+
 [X3FL-dynamic-relationships.ipynb](https://colab.research.google.com/github/mkmark/X3FL-dynamic-relationships/blob/main/X3FL-dynamic-relationships.ipynb)
 
 The result is different from blazenclaw's work. Long story short,

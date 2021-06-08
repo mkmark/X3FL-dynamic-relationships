@@ -1,6 +1,6 @@
 # X3FL dynamic relationships
 
-Originally posted on [forum.egosoft.com](https://forum.egosoft.com/viewtopic.php?f=199&t=439741&p=5061950#p5061950)
+Originally posted on [forum.egosoft.com](https://forum.egosoft.com/viewtopic.php?f=199&t=439741&p=5061950)
 
 The interactive tool is located at 
 
